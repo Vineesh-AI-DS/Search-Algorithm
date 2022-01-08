@@ -114,6 +114,9 @@ else:
 
 ```
 ##  Output:
+![ex8](https://user-images.githubusercontent.com/93427254/148634628-ece0c163-6a28-4f54-989a-eeb6cb727b8f.png)
+![ex8a](https://user-images.githubusercontent.com/93427254/148634630-7cc828f6-d098-4754-b2c1-c8d082b2bf3e.png)
+![ex8b](https://user-images.githubusercontent.com/93427254/148634634-0f63eaee-0ad5-4cbf-9b99-f09c5c1b4563.png)
 
 
 
